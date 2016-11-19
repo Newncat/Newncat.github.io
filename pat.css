@@ -54,9 +54,8 @@ p .center-block() {
 }
 
 
-h5 {
-	font-style: italic;
-	font-color: #A7FFBE !important ;
+h4 {font-style: italic;
+	font-color: #A7FFBE !important;
 }
 
 
